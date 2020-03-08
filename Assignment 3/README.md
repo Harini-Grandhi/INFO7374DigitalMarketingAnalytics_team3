@@ -6,6 +6,8 @@ The Dataset and the flow of analysis is attached in the Assignment 3 folder.
 
 First, to work on the visualisation. We moved this data to the Salesforce CRM by creating the object. From the Einstein Analytics, we accessed the CRM data and worked on understanding the adstock effects and TV/Radio Spends across TV and Radio sales.
 
+![](Assignment%203/Analysis_Flow.PNG)
+
 Procedure to setup the data in salesforce and the insignts of the analysis can be found in the link: https://docs.google.com/document/d/1XosP5DyRejNYaNvh6J4ZvUvWjXQd46t9Tq0OIGPLCJc/edit#
 
 # Assignment 3 - Part 2
