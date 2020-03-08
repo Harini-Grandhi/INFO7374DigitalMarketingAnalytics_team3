@@ -14,6 +14,8 @@ Procedure to setup the data in salesforce and the insignts of the analysis can b
 
 The main idea of this assignment is to work with the criteo dataset, and understand the attribution modeling used to help marketers understand the journey of the user.
 
+![](Assignment_3-Part2/Assignment3-2_flow.png)
+
 The blog used as a reference is https://blog.griddynamics.com/cross-channel-marketing-spend-optimization-deep-learning/
 
 On this blog, they have already created Last touch attribution and logistic regression models to give us a little understanding on how the attribution model works.
