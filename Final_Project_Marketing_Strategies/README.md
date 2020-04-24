@@ -61,7 +61,21 @@ User_session - Temporary user's session ID. Same for each user's session. It cha
 
 <h4> Synthetic Data Generation </h4>
 
-<h2> Exploratory Data Analysis </h2> 
+<h4> Exploratory Data Analysis </h4>
+
+<h4> Marketing Algorithms Implemented </h4>
+
+<b> Pricing Strategies </b>
+
+<b> Uplift modelling </b>
+
+<b> Recommendation System with Ranking of the Product </b>
+
+<b> Retention Rate and understanding existing & new customers </b>
+
+<b> Predicting Sales using LSTM </b>
+
+
 
 
 
