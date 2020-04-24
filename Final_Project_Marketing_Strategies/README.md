@@ -97,20 +97,26 @@ As the data is limited to customer clicks, we have generated synthetic data whic
 
 <b> Predicting Sales using LSTM </b>
 
-<h4> Implementation <h4>
+<h4> Implementation </h4>
   
 The syntehetic data and the notebooks are uploaded in the cloud which will generate required data output. The data is stored in AWS Redshift, which is accessed by Spotfire.
 
 ![Model1](https://github.com/Harini-Grandhi/INFO7374DigitalMarketingAnalytics_team3/blob/master/Final_Project_Marketing_Strategies/project_mplimentation.PNG)
+![Model3](https://github.com/Harini-Grandhi/INFO7374DigitalMarketingAnalytics_team3/blob/master/Final_Project_Marketing_Strategies/Cloud_implementation.jpg)
 
 
 <h2> Zlymo Strategies End Product </h2>
 
-We have created dashboards in spotfire, which give a brief overview of the data and can help brand to focus their promotions for specific 
+We have created dashboards in spotfire, which give a brief overview of the data and can help brand to focus their promotions on targeted customer with recommended brands. We have also created dashboards which will give a brief on how the company performance is over the period and the performance profile of each customer.
+
+A glimpse of the exploratory dashboard:
+
+![Model2](https://github.com/Harini-Grandhi/INFO7374DigitalMarketingAnalytics_team3/blob/master/Final_Project_Marketing_Strategies/Dashboard1.jpeg)
 
 
-
-<h3> Report Link </h3> https://docs.google.com/document/d/1FYAanOyqtcnCXlRPF4uhrzVYM3MWCJvgVnAXFZgLk6o/edit#
+<h3> Report Link </h3>
+Detailed explanation of the algorithms and dashboards can be found here:
+https://docs.google.com/document/d/1FYAanOyqtcnCXlRPF4uhrzVYM3MWCJvgVnAXFZgLk6o/edit#
 
 
 
