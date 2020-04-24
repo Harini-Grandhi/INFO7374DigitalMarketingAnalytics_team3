@@ -36,14 +36,10 @@ To understand the performance of the company
 Event_time - Time when event happened at (in UTC).
 
 Event_type - Events can be:
-
-view - a user viewed a product
-
-cart - a user added a product to shopping cart
-
-remove from cart - a user removed a product from shopping cart
-
-purchase - a user purchased a product.
+  - view - a user viewed a product
+  - cart - a user added a product to shopping cart
+  - remove from cart - a user removed a product from shopping cart
+  - purchase - a user purchased a product.
 
 Product_id - ID of a product
 
@@ -70,7 +66,25 @@ User_session - Temporary user's session ID. Same for each user's session. It cha
 <h2> Implementation Strategies </h2>
 
 <h4> Synthetic Data Generation </h4>
+ 
+As the data is limited to customer clicks, we have generated synthetic data which gives details of the capaigns and promotions.
 
+  - Promotions: Promotions used to attract customer base to increase sales
+      - Discount
+      - Buy one Get one
+      - Free Samples
+      
+  - Campaigns: The medium through which the promotions are marketed
+      - Email
+      - Socil Media
+      - Reffral
+      - Web Search
+   
+  - Channel: The device through which the promotion is accessed
+      - Phone
+      - Desktop
+      
+      
 <h4> Exploratory Data Analysis </h4>
 
 <h4> Marketing Algorithms Implemented </h4>
@@ -83,19 +97,13 @@ User_session - Temporary user's session ID. Same for each user's session. It cha
 
 <b> Retention Rate and understanding existing & new customers </b> 
 
-New Customer Ratio
-
-First we should define what is a new customer. In our dataset, we can assume a new customer is whoever did his/her first purchase in the time window we defined. We will be using .min() function to find our first purchase date for each customer and define new customers based on that.
-
-Retention rate should be monitored very closely because it indicates how sticky is your service and how well your product fits the market. For making Monthly Retention Rate visualized, we need to calculate how many customers retained from previous month.
-
-```
-Monthly Retention Rate = Retained Customers From Prev. Month/Active Customers Total
-```
-
 <b> Predicting Sales using LSTM </b>
 
-Predicting sales is important to any organization. We can plan our demand and supply actions by looking at the forecasts. It helps to see where to invest more. Last but not least, it is an excellent guide for planning budgets and targets. In this project we used LSTM Model to predict our sales. Our sales was not a steady increase. We had a huge increase during the holiday season and then in the month of December & January there is fall in the sales.
+<h4> Implementation <h4>
+  
+The syntehetic data and the notebooks are uploaded in the cloud which will generate required data output. The data is stored in AWS Redshift, which is accessed by Spotfire.
+
+
 
 
 <h2> Our Finding to improve the Zlymo </h2>
