@@ -2,6 +2,13 @@
 
 This repository consists of all the assignments and final project of Algorithmic Digital Marketing.
 
+```
+Authors:
+Harini Grandhi
+Sumeet Gaglani
+Nancy Jemimah Packiyanathan
+```
+
 <h3> Topics Learned from these assignments and project </h3>
 
 * Understanding the various marketing strategies taken by the organization - Case Study of Amazon Prime Video (Their Promotions,Recommendations and campaign across the website)
