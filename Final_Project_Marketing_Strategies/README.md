@@ -1,5 +1,13 @@
 # Final Project - Zlymo Online Cosmetics Store
 
+
+```
+Authors:
+Harini Grandhi
+Sumeet Gaglani
+Nancy Jemimah Packiyanathan
+```
+
 <h2> Overview of our Store </h2>
 
 Zlymo is an online cosmetic store striving to mark its presence in the field competing with major brands like Sephora, Ipsy etc. For this purpose they have decided to concentrate on promotions through multiple channels like email marketing, social media, referral etc.
