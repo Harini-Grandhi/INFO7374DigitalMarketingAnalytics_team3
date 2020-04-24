@@ -4,7 +4,7 @@
 
 Zlymo is an online cosmetic store striving to mark its presence in the field competing with major brands like Sephora, Ipsy etc. For this purpose they have decided to concentrate on promotions through multiple channels like email marketing, social media, referral etc.
 
-<h2> Business Model <h2> 
+<h2> Business Model </h2> 
   
 To meet the requirements of Zlymo, we have decided to build two separate systems, one which is customer focused and the other for business partners.
     * Customer Centric System
@@ -34,6 +34,10 @@ Brand - Downcase string of brand name. Can be missed.
 Price- Float price of a product. Present.
 User_id- Permanent user ID.
 User_session - Temporary user's session ID. Same for each user's session. It changes every time a user comes back to an online store from a long pause.
+
+<h2> Implementation Strategies </h2>
+
+<h4> Synthetic Data Generation </h4>
 
 
 
