@@ -1,0 +1,22 @@
+Thu Mar 26 17:31:23 2020
+ C:\projects\xlearn\src\solver\solver.cc:207 (xLearn::Solver::init_train) Start to init Reader
+Thu Mar 26 17:31:23 2020
+ C:\projects\xlearn\src\solver\solver.cc:239 (xLearn::Solver::init_train) Number of Reader: 1
+Thu Mar 26 17:31:23 2020
+ C:\projects\xlearn\src\solver\solver.cc:260 (xLearn::Solver::init_train) Init Reader: train_ffm.txt
+Thu Mar 26 17:31:23 2020
+ C:\projects\xlearn\src\solver\solver.cc:315 (xLearn::Solver::init_train) Number of feature: 7
+Thu Mar 26 17:31:23 2020
+ C:\projects\xlearn\src\solver\solver.cc:322 (xLearn::Solver::init_train) Number of field: 4
+Thu Mar 26 17:31:23 2020
+ C:\projects\xlearn\src\solver\solver.cc:360 (xLearn::Solver::init_train) Number parameters: 240
+Thu Mar 26 17:31:23 2020
+ C:\projects\xlearn\src\solver\solver.cc:380 (xLearn::Solver::init_train) Initialize score function.
+Thu Mar 26 17:31:23 2020
+ C:\projects\xlearn\src\solver\solver.cc:388 (xLearn::Solver::init_train) Initialize loss function.
+Thu Mar 26 17:31:23 2020
+ C:\projects\xlearn\src\solver\solver.cc:396 (xLearn::Solver::init_train) Initialize evaluation metric.
+Thu Mar 26 17:31:23 2020
+ C:\projects\xlearn\src\solver\solver.cc:520 (xLearn::Solver::StartWork) Start training work.
+Thu Mar 26 17:31:23 2020
+ C:\projects\xlearn\src\solver\solver.cc:621 (xLearn::Solver::Clear) Clear the xLearn environment ...

@@ -1,0 +1,4 @@
+Thu Mar 26 15:08:03 2020
+ C:\projects\xlearn\src/base/file_util.h:130 (FileExist) File: C:\Users\nancy\AppData\Local\Temp\tmpnhc5sxll\cretio_tiny_train.bin doesn't exists.
+Thu Mar 26 15:08:06 2020
+ C:\projects\xlearn\src/base/file_util.h:130 (FileExist) File: C:\Users\nancy\AppData\Local\Temp\tmpnhc5sxll\cretio_tiny_valid.bin doesn't exists.

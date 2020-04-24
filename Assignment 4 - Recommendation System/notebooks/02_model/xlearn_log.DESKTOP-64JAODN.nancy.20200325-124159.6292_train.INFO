@@ -1,0 +1,24 @@
+Wed Mar 25 12:41:59 2020
+ C:\projects\xlearn\src\solver\solver.cc:207 (xLearn::Solver::init_train) Start to init Reader
+Wed Mar 25 12:41:59 2020
+ C:\projects\xlearn\src\solver\solver.cc:239 (xLearn::Solver::init_train) Number of Reader: 2
+Wed Mar 25 12:42:01 2020
+ C:\projects\xlearn\src\solver\solver.cc:260 (xLearn::Solver::init_train) Init Reader: C:\Users\nancy\AppData\Local\Temp\tmpeq2iytkb\cretio_tiny_train
+Wed Mar 25 12:42:02 2020
+ C:\projects\xlearn\src\solver\solver.cc:260 (xLearn::Solver::init_train) Init Reader: C:\Users\nancy\AppData\Local\Temp\tmpeq2iytkb\cretio_tiny_valid
+Wed Mar 25 12:42:02 2020
+ C:\projects\xlearn\src\solver\solver.cc:315 (xLearn::Solver::init_train) Number of feature: 2088185
+Wed Mar 25 12:42:02 2020
+ C:\projects\xlearn\src\solver\solver.cc:322 (xLearn::Solver::init_train) Number of field: 40
+Wed Mar 25 12:42:31 2020
+ C:\projects\xlearn\src\solver\solver.cc:360 (xLearn::Solver::init_train) Number parameters: 336197787
+Wed Mar 25 12:42:31 2020
+ C:\projects\xlearn\src\solver\solver.cc:380 (xLearn::Solver::init_train) Initialize score function.
+Wed Mar 25 12:42:31 2020
+ C:\projects\xlearn\src\solver\solver.cc:388 (xLearn::Solver::init_train) Initialize loss function.
+Wed Mar 25 12:42:31 2020
+ C:\projects\xlearn\src\solver\solver.cc:396 (xLearn::Solver::init_train) Initialize evaluation metric.
+Wed Mar 25 12:42:31 2020
+ C:\projects\xlearn\src\solver\solver.cc:520 (xLearn::Solver::StartWork) Start training work.
+Wed Mar 25 12:42:41 2020
+ C:\projects\xlearn\src\solver\solver.cc:621 (xLearn::Solver::Clear) Clear the xLearn environment ...

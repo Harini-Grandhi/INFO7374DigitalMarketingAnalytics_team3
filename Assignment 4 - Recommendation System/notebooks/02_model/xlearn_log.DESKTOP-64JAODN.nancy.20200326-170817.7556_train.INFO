@@ -1,0 +1,4 @@
+Thu Mar 26 17:08:17 2020
+ C:\projects\xlearn\src\solver\solver.cc:207 (xLearn::Solver::init_train) Start to init Reader
+Thu Mar 26 17:08:17 2020
+ C:\projects\xlearn\src\solver\solver.cc:239 (xLearn::Solver::init_train) Number of Reader: 1
