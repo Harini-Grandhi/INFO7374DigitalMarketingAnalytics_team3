@@ -79,9 +79,21 @@ User_session - Temporary user's session ID. Same for each user's session. It cha
 
 <b> Recommendation System with Ranking of the Product </b>
 
-<b> Retention Rate and understanding existing & new customers </b>
+<b> Retention Rate and understanding existing & new customers </b> 
+
+New Customer Ratio
+
+First we should define what is a new customer. In our dataset, we can assume a new customer is whoever did his/her first purchase in the time window we defined. We will be using .min() function to find our first purchase date for each customer and define new customers based on that.
+
+Retention rate should be monitored very closely because it indicates how sticky is your service and how well your product fits the market. For making Monthly Retention Rate visualized, we need to calculate how many customers retained from previous month.
+
+```
+Monthly Retention Rate = Retained Customers From Prev. Month/Active Customers Total
+```
 
 <b> Predicting Sales using LSTM </b>
+
+Predicting sales is important to any organization. We can plan our demand and supply actions by looking at the forecasts. It helps to see where to invest more. Last but not least, it is an excellent guide for planning budgets and targets. In this project we used LSTM Model to predict our sales. Our sales was not a steady increase. We had a huge increase during the holiday season and then in the month of December & January there is fall in the sales.
 
 
 <h2> Our Finding to improve the Zlymo </h2>
