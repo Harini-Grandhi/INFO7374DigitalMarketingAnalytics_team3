@@ -1,0 +1,19 @@
+Install the following dependencies
+
+from sklearn.svm import SVC
+from sklearn.multioutput import MultiOutputClassifier
+from sklearn.ensemble import GradientBoostingClassifier
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.naive_bayes import GaussianNB
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.linear_model import LogisticRegression
+import xgboost as xgb
+from sklearn.model_selection import KFold, cross_val_score, train_test_split
+%matplotlib inline
+import matplotlib.pyplot as plt
+import numpy as np
+import seaborn as sns
+import chart_studio.plotly as py
+import plotly.offline as pyoff
+import plotly.graph_objs as go
