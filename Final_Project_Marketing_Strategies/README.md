@@ -24,22 +24,44 @@ To understand the performance of the company
 <b> Information Collected from the customer </b>
 
 Event_time - Time when event happened at (in UTC).
+
 Event_type - Events can be:
+
 view - a user viewed a product
+
 cart - a user added a product to shopping cart
+
 remove from cart - a user removed a product from shopping cart
+
 purchase - a user purchased a product.
+
 Product_id - ID of a product
+
 Category_id - Product's category ID
+
 Category_code - Product's category taxonomy (code name) if it was possible to make it. Usually present for meaningful categories and skipped for different kinds of accessories.
+
 Brand - Downcase string of brand name. Can be missed.
+
 Price- Float price of a product. Present.
+
 User_id- Permanent user ID.
+
 User_session - Temporary user's session ID. Same for each user's session. It changes every time a user comes back to an online store from a long pause.
+
+<h4> Setting up the environment for this project </h4>
+
+* Download or clone the repository
+* Install all the requirements from requirements.txt
+* Then inside the notebooks folder, there are implementation of various marketing algorithms.
+* Run the code in your machine
+
 
 <h2> Implementation Strategies </h2>
 
 <h4> Synthetic Data Generation </h4>
+
+<h2> Exploratory Data Analysis </h2> 
 
 
 
