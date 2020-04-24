@@ -76,8 +76,11 @@ User_session - Temporary user's session ID. Same for each user's session. It cha
 <b> Predicting Sales using LSTM </b>
 
 
+<h2> Our Finding to improve the Zlymo </h2>
 
+<h2> Brief View of our Key Metrics in our Dashboards </h2>
 
+<h3> Report Link </h3> https://docs.google.com/document/d/1FYAanOyqtcnCXlRPF4uhrzVYM3MWCJvgVnAXFZgLk6o/edit#
 
 
 
