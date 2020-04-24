@@ -28,6 +28,8 @@ To understand the performance of the company
      * View the product
      * Moving the product to the cart
      * Purchasing the product 
+     
+![Model](https://github.com/Harini-Grandhi/INFO7374DigitalMarketingAnalytics_team3/blob/master/Final_Project_Marketing_Strategies/MarketingFunnel.PNG)
 
 <b> Information Collected from the customer </b>
 
