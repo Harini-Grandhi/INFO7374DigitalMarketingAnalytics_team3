@@ -2,7 +2,7 @@
 
 This repository consists of all the assignments and final project of Algorithmic Digital Marketing.
 
-Topics Learned from these assignments and project:
+<h3> Topics Learned from these assignments and project </h3>
 
 * Understanding the various marketing strategies taken by the organization - Case Study of Amazon Prime Video (Their Promotions,Recommendations and campaign across the website)
 * Practical hands-on working with tools liks XSV , Salesforce Einstein Analytics. RFM Analysis 
