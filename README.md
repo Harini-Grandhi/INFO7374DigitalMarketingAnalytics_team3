@@ -3,7 +3,7 @@
 This repository consists of all the assignments and final project of Algorithmic Digital Marketing.
 
 ```
-<b> Authors:</b>
+Authors
 
 Harini Grandhi
 Sumeet Gaglani
