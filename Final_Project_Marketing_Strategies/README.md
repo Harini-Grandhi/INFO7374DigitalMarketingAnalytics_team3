@@ -85,8 +85,6 @@ As the data is limited to customer clicks, we have generated synthetic data whic
       - Desktop
       
       
-<h4> Exploratory Data Analysis </h4>
-
 <h4> Marketing Algorithms Implemented </h4>
 
 <b> Pricing Strategies </b>
@@ -103,12 +101,14 @@ As the data is limited to customer clicks, we have generated synthetic data whic
   
 The syntehetic data and the notebooks are uploaded in the cloud which will generate required data output. The data is stored in AWS Redshift, which is accessed by Spotfire.
 
+![Model1](https://github.com/Harini-Grandhi/INFO7374DigitalMarketingAnalytics_team3/blob/master/Final_Project_Marketing_Strategies/project_mplimentation.PNG)
 
 
+<h2> Zlymo Strategies End Product </h2>
 
-<h2> Our Finding to improve the Zlymo </h2>
+We have created dashboards in spotfire, which give a brief overview of the data and can help brand to focus their promotions for specific 
 
-<h2> Brief View of our Key Metrics in our Dashboards </h2>
+
 
 <h3> Report Link </h3> https://docs.google.com/document/d/1FYAanOyqtcnCXlRPF4uhrzVYM3MWCJvgVnAXFZgLk6o/edit#
 
