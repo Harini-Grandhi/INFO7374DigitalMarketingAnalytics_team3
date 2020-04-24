@@ -7,6 +7,7 @@ Zlymo is an online cosmetic store striving to mark its presence in the field com
 <h2> Business Model </h2> 
   
 To meet the requirements of Zlymo, we have decided to build two separate systems, one which is customer focused and the other for business partners.
+
     * Customer Centric System
     * Partner Centric System
 
@@ -15,6 +16,7 @@ To meet the requirements of Zlymo, we have decided to build two separate systems
 To understand the performance of the company 
 
 <b> Marketing funnel </b>   
+
      * View the product
      * Moving the product to the cart
      * Purchasing the product 
